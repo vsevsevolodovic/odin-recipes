@@ -1,0 +1,10 @@
+.ingredients {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.recipe-name {
+    color: red;
+    font-size: 28px;
+}
